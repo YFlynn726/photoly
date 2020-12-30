@@ -23,6 +23,12 @@ header h2 {
 #logo {
   text-decoration: none;
   color: black;
+  font-family: "Pacifico", cursive;
+  font-size: 60px;
+}
+
+#logo:hover {
+  color: rgb(72, 72, 214);
 }
 
 .search-form {
